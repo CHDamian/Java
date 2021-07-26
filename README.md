@@ -11,6 +11,10 @@ Here are some of my projects written in Java
 Program simulates transactions in database where threads are users and try to use resources concurrently.<br/>
 Library is an extention to previously prepared data from one of professors from my university. My data are in folder solution (TransactionManagerFactory.java was also prepared before, but it was modified by me).
 
+## Blackjack simulation
+
+A simple simulation of Blackjack game with four players having their own strategies
+
 
 
 *To be continued...*
